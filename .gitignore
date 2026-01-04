@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Database files
+*.db
+
+# Logs
+*.log
+Logs/
+
+games.http
+genres.http
+
+
+Properties/launchSettings.json
+
+# OS files
+.DS_Store
+Thumbs.db
